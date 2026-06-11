@@ -7,11 +7,11 @@
     <itunes:author>Frontier Tech Research</itunes:author>
     <itunes:block>Yes</itunes:block>
     <item>
-      <title>ai-compute-clouds</title>
-      <description>DeepMind built a mathematician. Not a tool for mathematicians — an autonomous agent, called Aletheia, that does mathematics on its own: reads the problem, works the proof, writes it up, no human in the loop.</description>
-      <enclosure url="https://teemu-mattila.github.io/ftr-podcast/ai-compute-clouds_05_podcast.mp3" length="26939534" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-compute-clouds_05_podcast.mp3</guid>
-      <pubDate>Thu, 11 Jun 2026 00:19:20 -0000</pubDate>
+      <title>ai-compute-clouds — Episode A (primer episode)</title>
+      <description></description>
+      <enclosure url="https://teemu-mattila.github.io/ftr-podcast/ai-compute-clouds_05_podcast.mp3" length="16806817" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-compute-clouds_05_podcast.mp3:16806817</guid>
+      <pubDate>Thu, 11 Jun 2026 13:40:46 -0000</pubDate>
     </item>
   </channel>
 </rss>
